@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindContext", "Northwi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDB", "TestDB\TestDB.csproj", "{FCAD2569-50D6-4B5F-A0B2-9BECB8959F28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriEkleme", "VeriEkleme\VeriEkleme.csproj", "{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FCAD2569-50D6-4B5F-A0B2-9BECB8959F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCAD2569-50D6-4B5F-A0B2-9BECB8959F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCAD2569-50D6-4B5F-A0B2-9BECB8959F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

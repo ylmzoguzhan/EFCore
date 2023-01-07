@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace NorthwindContext;
 
-public partial class NorthwindContext : DbContext
+public partial class NorthwindDbContext : DbContext
 {
-    public NorthwindContext()
+    public NorthwindDbContext()
     {
     }
 
-    public NorthwindContext(DbContextOptions<NorthwindContext> options)
+    public NorthwindDbContext(DbContextOptions<NorthwindDbContext> options)
         : base(options)
     {
     }
