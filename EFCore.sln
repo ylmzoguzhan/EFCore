@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindContext", "NorthwindContext\NorthwindContext.csproj", "{CF9A80E7-64A7-4CE6-8B19-5BB82E35DF19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthwindContext", "NorthwindContext\NorthwindContext.csproj", "{CF9A80E7-64A7-4CE6-8B19-5BB82E35DF19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDB", "TestDB\TestDB.csproj", "{FCAD2569-50D6-4B5F-A0B2-9BECB8959F28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDB", "TestDB\TestDB.csproj", "{FCAD2569-50D6-4B5F-A0B2-9BECB8959F28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriEkleme", "VeriEkleme\VeriEkleme.csproj", "{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeriEkleme", "VeriEkleme\VeriEkleme.csproj", "{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriGuncelleme", "VeriGuncelleme\VeriGuncelleme.csproj", "{5E9E4828-95FB-4AE0-8DFF-C00D7731FA21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9E4828-95FB-4AE0-8DFF-C00D7731FA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9E4828-95FB-4AE0-8DFF-C00D7731FA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9E4828-95FB-4AE0-8DFF-C00D7731FA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9E4828-95FB-4AE0-8DFF-C00D7731FA21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
