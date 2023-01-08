@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDB", "TestDB\TestDB.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeriEkleme", "VeriEkleme\VeriEkleme.csproj", "{F07A6159-6A49-47DD-BD68-E1F6011BFB2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriGuncelleme", "VeriGuncelleme\VeriGuncelleme.csproj", "{5E9E4828-95FB-4AE0-8DFF-C00D7731FA21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeriGuncelleme", "VeriGuncelleme\VeriGuncelleme.csproj", "{5E9E4828-95FB-4AE0-8DFF-C00D7731FA21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriSilme", "VeriSilme\VeriSilme.csproj", "{50D5D3B6-7B3F-4DC9-B993-AAE861BF243A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeriSilme", "VeriSilme\VeriSilme.csproj", "{50D5D3B6-7B3F-4DC9-B993-AAE861BF243A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-TemelVeriSorgulama", "4-TemelVeriSorgulama\4-TemelVeriSorgulama.csproj", "{63C02A63-715B-4872-A676-44F7B6BA6B79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{50D5D3B6-7B3F-4DC9-B993-AAE861BF243A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50D5D3B6-7B3F-4DC9-B993-AAE861BF243A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50D5D3B6-7B3F-4DC9-B993-AAE861BF243A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C02A63-715B-4872-A676-44F7B6BA6B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C02A63-715B-4872-A676-44F7B6BA6B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C02A63-715B-4872-A676-44F7B6BA6B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C02A63-715B-4872-A676-44F7B6BA6B79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
