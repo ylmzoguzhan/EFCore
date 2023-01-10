@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-TemelVeriSorgulama", "4-T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-ÇogulVeri", "5-ÇogulVeri\5-ÇogulVeri.csproj", "{BBD6D3FE-0A57-4013-8D6B-9C64AC4EB246}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-TekilVeri", "6-TekilVeri\6-TekilVeri.csproj", "{CE3CE293-3ED1-418E-BF44-1CF9568A8FE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BBD6D3FE-0A57-4013-8D6B-9C64AC4EB246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD6D3FE-0A57-4013-8D6B-9C64AC4EB246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD6D3FE-0A57-4013-8D6B-9C64AC4EB246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3CE293-3ED1-418E-BF44-1CF9568A8FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3CE293-3ED1-418E-BF44-1CF9568A8FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3CE293-3ED1-418E-BF44-1CF9568A8FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3CE293-3ED1-418E-BF44-1CF9568A8FE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
